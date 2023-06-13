@@ -19,6 +19,8 @@ namespace radiobutton
 
         private void button1_Click(object sender, EventArgs e)
         {
+        //ZECA
+        
             string sexo = "";
             if(radioButton1.Checked)
             {
